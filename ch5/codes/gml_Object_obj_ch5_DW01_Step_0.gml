@@ -269,7 +269,7 @@ if (con == 10)
     }
     else
     {
-        c_msgset(0, "\\E2\\VO* Ah^1, sorry^1, m'lady./%");
+        c_msgset(0, "\\E2\\VO* Ah^1, perdão^1, m'lady./%");
     }
     
     c_talk_wait();
@@ -296,7 +296,7 @@ if (con == 10)
     }
     else
     {
-        c_msgset(0, "\\E0\\VH* ..^1. and best friend./");
+        c_msgset(0, "\\E0\\VH* ..^1. e melhor amigo./");
     }
     
     c_facenext("susie", "E");

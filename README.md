@@ -1,26 +1,38 @@
 <div align="center">
   <h1>Tradução PT-BR de DELTARUNE (por IA)</h1>
-  <p>Uma tradução 'tapa-buraco' baseado na tradução do grupo <a href="https://github.com/teiarruma/deltarune-ptbr"><b>TEIARRUMA</b></a> de <a href="https://deltarune.com/"><b>DELTARUNE</b></a>, um jogo por Toby Fox. <br>
+  <p>Uma tradução 'tapa-buraco' baseada na tradução do grupo <a href="https://github.com/teiarruma/deltarune-ptbr"><b>TEIARRUMA</b></a> do jogo <a href="https://deltarune.com/"><b>DELTARUNE</b></a>, criado por Toby Fox.</p>
 </div>
 
-## Creditos maximo a TEIARRUMA
-- Varios sprites foram retirado do projeto deles.
+---
 
-<p>A tradução em si foi feita majoritariamente por IA manualmente para isso e revisada por humanos (vulgo, eu mesmo).
-<p>Graficos, Fontes, Video etc. foram traduzidos manualmente por mim (sem IA).
-<p>Ainda assim não é perfeita e está longe disto, e definitivamente não substitui a tradução humana.
+## Sobre o Projeto
 
-## Usem os sprites, video e scripts como quiser.
+A tradução em si foi feita majoritariamente por IA (cerca de 60%) e revisada manualmente por mim.
+Gráficos, fontes, vídeos e demais elementos visuais foram traduzidos e editados manualmente por mim (sem uso de IA).
 
-## Caso a Equipe TEIARRUMA queira que o projeto ou seus trabalho seja retirado, entre em contato. Não tenho o intuito de substituir o trabalho deles.
+Ainda assim, a tradução não é perfeita e está longe disso, e **definitivamente não substitui a tradução humana**.
 
-![Captura de Tela1](screenshots/sh1.png)
-![Captura de Tela2](screenshots/sh2.png)
+## Créditos
 
-Para instalar a tradução, siga as intruções da TEIARRUMA no [HÍPERLINK] acima.
+O crédito máximo deste projeto vai para a equipe **TEIARRUMA**:
+- Vários sprites utilizados aqui foram retirados do projeto deles.
+- Caso a equipe TEIARRUMA solicite a retirada do projeto ou de seus trabalhos, isso será feito imediatamente. Não há nenhum intuito de substituir o excelente trabalho deles.
 
-> [!WARNING]  
-> **Nota:** Projeto sem fins lucrativos, de fã para fã. Proibido qualquer tipo de comercialização com o projeto.
+> **Nota:** Fiquem à vontade para utilizar os sprites, vídeos e scripts deste repositório como preferirem!
 
-> [!WARNING]  
-> **Nota²:** Verificador de Tradução PROVAVELMENTE será removido nos proximos updates.
+## 📸 Capturas de Tela
+
+![Captura de Tela 1](screenshots/sh1.png)
+![Captura de Tela 2](screenshots/sh2.png)
+
+## ⚙️ Instalação
+
+Para instalar a tradução, siga as instruções originais da equipe TEIARRUMA na página do projeto deles: **[Clique aqui para ver as instruções de instalação](https://github.com/teiarruma/deltarune-ptbr)**.
+
+---
+
+> [!CAUTION]  
+> **Aviso Legal:** Este é um projeto sem fins lucrativos, feito de fã para fã. É **terminantemente proibida** qualquer tipo de comercialização com este projeto.
+
+> [!NOTE]  
+> **Nota:** O "Verificador de Tradução" *provavelmente* será removido nas próximas atualizações.
