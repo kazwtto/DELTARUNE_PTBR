@@ -1,6 +1,3 @@
-if (!global.lang_checked)
-    exit;
-
 if (chapter5_text_alpha > 0)
 {
     draw_set_alpha(chapter5_text_alpha);
