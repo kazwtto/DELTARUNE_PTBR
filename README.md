@@ -12,7 +12,7 @@ Gráficos, fontes, vídeos e demais elementos visuais foram traduzidos e editado
 
 Ainda assim, a tradução não é perfeita e está longe disso, e **definitivamente não substitui a tradução humana**.
 
-![Progresso ou algo assim](https://iili.io/C8q31ff.png)
+![Progresso ou algo assim](https://iili.io/C8qaeu1.png)
 
 ## Créditos
 
