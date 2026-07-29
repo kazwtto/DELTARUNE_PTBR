@@ -14,7 +14,7 @@ Ainda assim, a tradução não é perfeita e está longe disso, e **definitivame
 
 ![Progresso ou algo assim](https://iili.io/C8qaeu1.png)
 
-> [!CAUTION]  
+> [!NOTE]  
 > A tradução usa a localização japonesa como referencia para adaptar genero dos personagens, onde ao invez de 'ele' ou 'ela', Toby Fox usa o nome do personagem para ocultar o genero. Além disto, em caso de piadas que apenas fazem sentido no inglês, foi-se traduzido a partir da adaptação japonesa.
 
 ## Créditos
