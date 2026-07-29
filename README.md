@@ -12,14 +12,7 @@ Gráficos, fontes, vídeos e demais elementos visuais foram traduzidos e editado
 
 Ainda assim, a tradução não é perfeita e está longe disso, e **definitivamente não substitui a tradução humana**.
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 5px; font-weight: bold;">
-  <span>IA 43%</span>
-  <span>67% Humano</span>
-</div>
-<div style="display: flex; height: 10px; background-color: white; border: 1px solid black;">
-  <div style="width: 43%; background-color: #FFFF00;"></div>
-  <div style="width: 57%; background-color: white;"></div>
-</div>
+![Progresso ou algo assim](https://iili.io/C8q31ff.png)
 
 ## Créditos
 
