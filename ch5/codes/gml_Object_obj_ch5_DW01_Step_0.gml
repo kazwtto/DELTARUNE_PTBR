@@ -296,7 +296,7 @@ if (con == 10)
     }
     else
     {
-        c_msgset(0, "\\E0\\VH* ..^1. e melhor amigo./");
+        c_msgset(0, "\\E0\\VH* ..^1. e seu melhor amigo./");
     }
     
     c_facenext("susie", "E");
